@@ -2,7 +2,7 @@
 import java.sql.*;
 import java.util.*;
 
-public class LibraryManagementSystem {
+public class LibraryManagementSystem{
 
     static final String DB_USER = "root";
     static final String DB_PASS = "";
